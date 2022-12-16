@@ -1,0 +1,26 @@
+Python Pandas Dataframe Basics
+
+1. How to create a Dataframe
+•	Creating a DataFrame from a list of lists
+•	Creating a DataFrame from a dict of lists:
+•	Creating an index DataFrame from a dict of lists:
+•	Creating a DataFrame from a list of dicts
+•	Creating a DataFrame from a list of dicts and specifying the row indices.
+•	Creating a DataFrame from a list of dicts and specifying both the row indices and the column indices
+•	Creating a DataFrame from a list of tuples:
+•	Creating a DataFrame using the zip() function:
+•	Creating an empty DataFrame
+2. How to sort rows within a pandas dataframe
+3. How to find the largest value in a pandas dataframe
+4. How to list unique value in a pandas dataframe
+5. How to delete duplicates from a pandas dataframe
+6. Rename column header in a pandas dataframe
+7. Search pandas dataframe for a value
+ Note:The .where function helps to search a pandas dataframe for a value. 
+8. Drop row and column in a pandas dataframe
+9. How to filter in a pandas dataframe
+10. How to calculate moving average in a pandas dataframe
+11. How to normalise a column in a pandas dataframe
+12. How to assign new columns in a pandas dataframe
+13. How to rank a pandas dataframe in ascending and descending order
+14.Add row to a DataFrame
